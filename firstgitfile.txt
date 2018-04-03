@@ -1,2 +1,2 @@
 echo “My first git!”
-
+echo "Now adding features!"
